@@ -81,7 +81,8 @@ $config['url_suffix'] = '';
 |
 */
 $config['language']	= 'auto';
-$config['allowed_auto_languages'] = array('english', 'italian', 'french', 'spanish', 'simplified-chinese',  'traditional-chinese');
+$config['allowed_auto_languages'] = array('english', 'italian', 'french', 'spanish', 'simplified-chinese',
+'traditional-chinese', 'pt-br.portuguese');
 
 /*
 |--------------------------------------------------------------------------

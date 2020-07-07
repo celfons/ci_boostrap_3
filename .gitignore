@@ -40,3 +40,5 @@ application/modules/admin/controllers/Playground.php
 application/modules/admin/views/playground.php
 application/modules/admin/library/Playground_lib.php
 application/modules/admin/model/Playground_model.php
+
+.idea/

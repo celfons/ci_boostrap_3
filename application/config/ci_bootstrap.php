@@ -81,7 +81,11 @@ $config['ci_bootstrap'] = array(
 			'cn' => array(
 				'label'	=> '简体中文',
 				'value'	=> 'simplified-chinese'
-			)
+			),
+            'pt' => array(
+                 'label'	=> 'Português',
+                 'value' => 'português'
+             )
 		)
 	),
 
