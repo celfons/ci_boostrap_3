@@ -29,7 +29,7 @@ sql/backup/*
 sql/backup/!index.html
 
 ### Database config Mast Be ignored by git
-application/config/database.php
+#application/config/database.php
 
 ###  Editors blacklist
 nbproject/*
