@@ -94,8 +94,8 @@ $config['ci_bootstrap'] = array(
 				'value' => 'spanish'
 			),
 			'pt' => array(
-                'label'	=> 'Português',
-                'value' => 'português'
+                'label'	=> 'Portugues',
+                'value' => 'portugues'
             )
 		)
 	),
