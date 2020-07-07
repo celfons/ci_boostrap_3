@@ -30,10 +30,10 @@ $config['ci_bootstrap'] = array(
 	*/
 
 	// Site name
-	'site_name' => 'CI Bootstrap 3',
+	'site_name' => 'Sr Menu',
 
 	// Default page title prefix
-	'page_title_prefix' => 'CI Bootstrap 3 - ',
+	'page_title_prefix' => 'Sr Menu - ',
 
 	// Default page title
 	// (set empty then MY_Controller will automatically generate one based on controller / action)
@@ -42,8 +42,8 @@ $config['ci_bootstrap'] = array(
 	// Default meta data
 	// (name => content)
 	'meta_data'	=> array(
-		'author'		=> 'Michael Chan (https://github.com/waifung0207)',
-		'description'	=> 'CI Bootstrap 3',
+		'author'		=> 'Marcel Fonseca (https://github.com/celfons)',
+		'description'	=> 'Sr Menu',
 		'keywords'		=> 'PHP,CodeIgniter,CRUD'
 	),
 
@@ -107,7 +107,7 @@ $config['ci_bootstrap'] = array(
 	// (or directly update view file: /application/modules/admin/views/_partials/sidemenu.php)
 	'menu' => array(
 		'home' => array(
-			'name'		=> 'Home',
+			'name'		=> 'Inicio',
 			'url'		=> '',
 			'icon'		=> 'fa fa-home',
 		),

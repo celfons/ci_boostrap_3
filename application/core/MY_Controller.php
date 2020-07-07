@@ -81,7 +81,7 @@ class MY_Controller extends MX_Controller {
 		$lang_config = empty($config['languages']) ? array() : $config['languages'];
 		if ( !empty($lang_config) )
 		{
-			$this->mMultilingual = TRUE;
+			$this->mMultilingual = FALSE;
 			$this->load->helper('language');
 
 			// redirect to Home page in default language

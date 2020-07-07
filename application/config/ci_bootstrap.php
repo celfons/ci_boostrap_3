@@ -17,7 +17,7 @@ $cibs3_ver = "?ver=0.1.0";
 $config['ci_bootstrap'] = array(
 
 	// Site name
-	'site_name' => 'CI Bootstrap 3',
+	'site_name' => 'Sr Menu',
 
 	// Default page title prefix
 	'page_title_prefix' => '',
@@ -95,7 +95,7 @@ $config['ci_bootstrap'] = array(
 	// Menu items
 	'menu' => array(
 		'home' => array(
-			'name'		=> 'Home',
+			'name'		=> 'Inicio',
 			'url'		=> '',
 		),
 	),

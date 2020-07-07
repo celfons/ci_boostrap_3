@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['jwt_issuer'] = 'CI Bootstrap 3';
+$config['jwt_issuer'] = 'Sr Menu';
 
 // must be non-empty
 $config['jwt_secret_key'] = 'example_key';
